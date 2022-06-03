@@ -6,7 +6,7 @@ Q: For what purpose was the dataset created?
 A: The dataset was created as an evaluation set to compare the suitability of different approaches to cluster scientific research literature into subdomains in an unsupervised manner.
 
 Q: Who created the dataset and on behalf of which entity?       
-A: The dataset was created by researchers at the [Olivetti Group](https://olivetti.mit.edu) at the Department of Materials Science and Engineering at MIT, the [Information Extraction and Synthesis Laboratory](https://www.iesl.cs.umass.edu/) at the University of Massachusetts Amherst, and the Human-Computer Interaction Institute at Carnegie Mellon University on behalf of those same entities. 
+A: The dataset was created by researchers at the [Olivetti Group](https://olivetti.mit.edu) at the Department of Materials Science and Engineering at MIT, the [Information Extraction and Synthesis Laboratory](https://www.iesl.cs.umass.edu/) at the University of Massachusetts Amherst, and the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/people/aniket-kittur) at Carnegie Mellon University on behalf of those same entities. 
 
 Q: Who funded the creation of the dataset?     
 A: This work is supported by Shell, the Center for Knowledge Acceleration, the Office of Naval Research, the Allen Institute for Artificial Intelligence (AI2), National Science Foundation under Grant Number IIS-1763618, IIS-1922090, FW-HTF-RL-1928631, and IIS-1816242, the IBM Research AI through the AI Horizons Network, and the Chan Zuckerberg Initiative under the project Scientific Knowledge Base Construction.
