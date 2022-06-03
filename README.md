@@ -24,8 +24,7 @@ The paper can be accessed here: https://openreview.net/forum?id=LkK1A--Eo6R
 Please cite the paper as:  
 
 ```bibtex
-@inproceedings{
-	kang2022augmentingcde,
+@inproceedings{kang2022augmentingcde,
 	title={Augmenting Scientific Creativity with Retrieval across Knowledge Domains},
 	author={Hyeonsu B Kang, Sheshera Mysore, Kevin J Huang, Haw-Shiuan Chang, Thorben Prein, Andrew McCallum, Niki Kittur, Elsa Olivetti},
 	booktitle={Second Workshop on Bridging Human-Computer Interaction and Natural Language Processing},
