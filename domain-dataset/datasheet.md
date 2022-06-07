@@ -23,7 +23,21 @@ Q: Does the dataset contain all possible instances or is it a sample of instance
 A: The dataset is publicly available sample of a larger dataset. It represents a filtered version of a larger (~700k) non-public collection of Materials Science papers obtained via agreements with publishers. This larger collection was set up for broad variety of different Materials Science projects making it a suitable source for covering a broader range of materials science subfields. 
 
 Q: Is there a label or target associated with each instance?      
-A: Each instance is assigned to a domain cluster label. Instances can only be affiliated with one label.
+A: Each instance is assigned to a domain cluster label. Instances can only be affiliated with one label. Each instance in the dataset contains the following information:
+
+```
+{
+	"title": # untokenized title
+	"doi": 
+	"abstract": # untokenized abstract sentences,
+	"keywords": # paper author assigned keywords, 
+	"year": , 
+	"journal": ,
+	"publisher":, 
+	"gold_cluster": # domain label used for evaluation - selected by dataset authors from the "keywords" field,
+	"gold_cluster_synonyms": # synonyms of the domain label used in the dataset - selected by dataset authors
+}
+```
 
 Q: Is any information missing from individual instances?        
 A: None.

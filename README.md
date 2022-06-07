@@ -17,21 +17,7 @@ The paper can be accessed here: https://arxiv.org/abs/2206.01328
 
 ### Repository Contents <a name="repocontents"></a>
 
-`domain-dataset`: Dataset of about 36k papers accompanied with keywords indicative of the sub-domain of the paper. Details of the dataset are described in the accompanying `datasheet.md` and the instance in the JSON file are as follows:
-
-```json
-{
-	"title": # untokenized title
-	"doi": 
-	"abstract": # untokenized abstract sentences
-	"keywords": # paper author assigned keywords, 
-	"year": , 
-	"journal": 
-	"publisher": 
-	"gold_cluster": # domain label used for evaluation - selected by dataset authors from "keywords"
-	"gold_cluster_synonyms": #synonyms of the domain label used in the dataset
-}
-```
+`domain-dataset`: Dataset of about 36k papers accompanied with keywords indicative of the sub-domain of the paper. Details of the dataset are described in the accompanying `datasheet.md`.
 
 ### Citation <a name="citation"></a>
 
